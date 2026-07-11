@@ -1,6 +1,6 @@
 # Biaobei-French-legal
 
-「手表法语」（标背法语版）的隐私政策、使用条款与支持页面，通过 GitHub Pages 发布。
+「手表背法语」（标背法语版）的隐私政策、使用条款与支持页面，通过 GitHub Pages 发布。
 
 ## 在线地址
 
